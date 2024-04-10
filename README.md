@@ -5,7 +5,7 @@ I'm Govind Ram Dhruw, a passionate computer science student with interests in ga
 ## About Me
 
 - 🎓 I'm currently pursuing my degree in Computer Science.
-- 🎮 I love game development using C++, and I'm also skilled in web development with JavaScript.
+- 🎮 I love game development using C++ and JavaScript, and I'm also skilled in web development with JavaScript.
 - 🌱 I'm continuously learning and exploring new techniques and technologies in both areas.
 - 📫 You can reach me at [govindramdhruw2020@gmail.com](mailto:govindramdhruw2020@gmail.com).
 
